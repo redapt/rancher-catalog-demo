@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  access-broker:
+  - apiVersion: v2
+    appVersion: 0.0.0
+    description: A distributed, lightweight, container-based Identity Aware proxy
+      deployed close to your application via the sidecar or standalone mode.
+    home: https://www.redapt.com
+    icon: file://assets/DevOps.svg
+    keywords:
+    - Redapt
+    - Beer
+    - Favorite
+    maintainers:
+    - email: jmeisner@redapt.com
+      name: jmeisner
+    name: access-broker
+    type: application
+    version: 1.0.0
