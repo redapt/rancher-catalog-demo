@@ -5,7 +5,7 @@ questions:
     type: string
     default: redaptcloud/favorite-beer
     label: Image Repository
-    #group: "Favorite beer settings"
+    group: "Favorite beer settings"
 
   - variable: image.tag
     description: "Container registry image tag. Defaults to 'v1'."
@@ -13,4 +13,4 @@ questions:
     type: string
     default: "v1"
     label: Image Tag
-    #group: "Favorite beer settings"
+    group: "Favorite beer settings"
