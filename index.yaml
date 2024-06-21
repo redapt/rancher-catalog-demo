@@ -5,8 +5,7 @@ entries:
       catalog.cattle.io/release-name: favorite-beer
     apiVersion: v2
     appVersion: 0.0.0
-    description: A distributed, lightweight, container-based Identity Aware proxy
-      deployed close to your application via the sidecar or standalone mode.
+    description: A simple favorite-beer application used for demo purposes.
     home: https://www.redapt.com
     icon: file://assets/DevOps.svg
     keywords:
