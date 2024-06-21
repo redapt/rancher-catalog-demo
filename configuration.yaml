@@ -1,0 +1,9 @@
+template: staging
+
+validate:
+- url: https://github.com/redapt/rancher-catalog-demo.git
+  branch: main
+#helmRepo:
+#  cname: redapt.rancher.io
+
+omitBuildMetadataOnExport: true
